@@ -1,0 +1,354 @@
+[
+    {
+        "id": 1,
+        "question": " Was sicher ist, nennt man neudeutsch ...",
+        "answers": [
+            {
+                "text": "geldschrank",
+                "correct": false
+            },
+            {
+                "text": "tresor",
+                "correct": false
+            },
+            {
+                "text": "schließfach",
+                "correct": false
+            },
+            {
+                "text": "safe",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": " Was sicher ist, nennt man neudeutsch ...",
+        "answers": [
+            {
+                "text": "geldschrank",
+                "correct": false
+            },
+            {
+                "text": "tresor",
+                "correct": false
+            },
+            {
+                "text": "schließfach",
+                "correct": false
+            },
+            {
+                "text": "safe",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Wurde von der Putzfee versehentlich der falsche Raum gefegt, hat sie sozusagen ...",
+        "answers": [
+            {
+                "text": "falsch",
+                "correct": false
+            },
+            {
+                "text": "verkehrt",
+                "correct": true
+            },
+            {
+                "text": "irrig",
+                "correct": false
+            },
+            {
+                "text": "unzutreffend",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": " Der Sänger war gar nicht damit einverstanden, dass man ihm beim Konzert aus Zeitgründen das letzte ...",
+        "answers": [
+            {
+                "text": "Lipp gloss",
+                "correct": false
+            },
+            {
+                "text": "Mass cara",
+                "correct": false
+            },
+            {
+                "text": "Conn cealer",
+                "correct": false
+            },
+            {
+                "text": "Lied strich",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Bei Wahlen kämpfen Parteien ...",
+        "answers": [
+            {
+                "text": "breit Schlagen",
+                "correct": false
+            },
+            {
+                "text": "um Stimmen",
+                "correct": true
+            },
+            {
+                "text": "ein Wickeln",
+                "correct": false
+            },
+            {
+                "text": "be Kehren",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Bis zu fünf Personen finden vorschriftsmäßig in einem ...",
+        "answers": [
+            {
+                "text": "Box Ring",
+                "correct": false
+            },
+            {
+                "text": "Schwimm Becken",
+                "correct": false
+            },
+            {
+                "text": "Golf Platz",
+                "correct": true
+            },
+            {
+                "text": "Fußball Feld",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Wobei handelt es sich um ein Adjektiv?",
+        "answers": [
+            {
+                "text": "hensslerfüllt",
+                "correct": false
+            },
+            {
+                "text": "laferfüllt",
+                "correct": false
+            },
+            {
+                "text": "lichterfüllt",
+                "correct": true
+            },
+            {
+                "text": "mälzerfüllt",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Für welche teilweise mehrere Tausend Lichtjahre von der Erde entfernten Objekte interessieren sich Astronomen?",
+        "answers": [
+            {
+                "text": "Nebel",
+                "correct": true
+            },
+            {
+                "text": "Graupel",
+                "correct": false
+            },
+            {
+                "text": "Sprühregen",
+                "correct": false
+            },
+            {
+                "text": " Morgentau",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Welche dieser Primzahlen ist keine Primzahl mehr, wenn man ihre beiden Ziffern vertauscht",
+        "answers": [
+            {
+                "text": "13",
+                "correct": false
+            },
+            {
+                "text": "17",
+                "correct": false
+            },
+            {
+                "text": "19",
+                "correct": true
+            },
+            {
+                "text": "27",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Auf Platz 1 der Album-Charts schaffte es im Juni 2022 „Alles aus Liebe - 40 Jahre ...",
+        "answers": [
+            {
+                "text": "Die Toten Hosen",
+                "correct": true
+            },
+            {
+                "text": "Die Ärzte",
+                "correct": false
+            },
+            {
+                "text": "Die Fantastischen Vier",
+                "correct": false
+            },
+            {
+                "text": " Die Amigos",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Welcher dieser Meistertrainer ist schon einmal mit einem Verein aus der 1. Fußballbundesliga abgestiegen?",
+        "answers": [
+            {
+                "text": "Ottmar Hitzfeld",
+                "correct": false
+            },
+            {
+                "text": "Jürgen Klopp",
+                "correct": true
+            },
+            {
+                "text": "Armin Veh",
+                "correct": false
+            },
+            {
+                "text": "Felix Magath",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Welche der vier laut Reinheitsgebot zum Bierbrauen erlaubten Zutaten wurde in der Urfassung von 1516 noch nicht erwähnt?",
+        "answers": [
+            {
+                "text": "Hofen",
+                "correct": false
+            },
+            {
+                "text": "Gerste",
+                "correct": false
+            },
+            {
+                "text": "Hefe",
+                "correct": true
+            },
+            {
+                "text": "Wasser",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Europäische Kulturhauptstadt 2022 ist - neben Kaunas in Litauen und Novi Sad in Serbien - auch ...",
+        "answers": [
+            {
+                "text": "Esch in Luxemburg",
+                "correct": true
+            },
+            {
+                "text": "Birk in Tschechien",
+                "correct": false
+            },
+            {
+                "text": "in einer Felswand",
+                "correct": false
+            },
+            {
+                "text": "an einer Rose",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": " Wo begegnet einem am ehesten ein Niednagel?",
+        "answers": [
+            {
+                "text": "im Baumarkt",
+                "correct": false
+            },
+            {
+                "text": "am Finger",
+                "correct": true
+            },
+            {
+                "text": "Staatsanwalt",
+                "correct": false
+            },
+            {
+                "text": "Fernsehmoderator",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Was war der Brasilianer Wallace Souza von Beruf, der für seine Karriere sogar Morde in Auftrag gegeben haben soll?",
+        "answers": [
+            {
+                "text": "Bestatter",
+                "correct": false
+            },
+            {
+                "text": "Schriftsteller",
+                "correct": false
+            },
+            {
+                "text": "Staatsanwalt",
+                "correct": false
+            },
+            {
+                "text": "Fernsehmoderator",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question": " Zu welchem Bautyp gehörte die Dampflokomotive „Adler“, mit der 1835 das Eisenbahnzeitalter in Deutschland begann?",
+        "answers": [
+            {
+                "text": "Neffentee",
+                "correct": false
+            },
+            {
+                "text": "Nichtentee",
+                "correct": false
+            },
+            {
+                "text": " Patentee",
+                "correct": true
+            },
+            {
+                "text": "Tantentee",
+                "correct": false
+            }
+        ]
+    }
+]
